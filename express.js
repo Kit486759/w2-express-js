@@ -10,7 +10,7 @@ const createList = () => {
         if (err) throw err;
         console.log(`file created`)
     })
-    console.log(`file created`)
+    
 }
 
 
