@@ -9,6 +9,18 @@
   "author": "Kit So",
   "license": "ISC",
   "dependencies": {
+    "check-disk-space": "^3.0.1",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kit486759/w2-express-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kit486759/w2-express-js/issues"
+  },
+  "homepage": "https://github.com/Kit486759/w2-express-js#readme"
 }
